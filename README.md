@@ -55,17 +55,22 @@ Users cannot make changes to this section. The webpage developer or owner would 
       ![Search](https://github.com/fareenamughal/UFOs/blob/e115b7613efde2006998951b5dadeede41e3c32a/static/images/Search%20tab.png)
 
 
-For instance a user may input a specific date to filter the data to only reflect information about that specific date e.g. 1/10/2010
-A user may also search for specific cities, 
-
-Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
-
-
+For instance a user may input a specific date to filter the data to only reflect information about that specific date e.g. 1/10/2010.
+They could also search for specific a city e.g. benton, or state e.g. ca or country e.g. us or shape e.g. round. This selection would be done by typing in the specific criteria in text boxes on the left hand column. One selection or a combination of criteria can be used and by inputting and clicking enter on the keyboard the data will be filtered out to reflect only items selected.
 
 ___
 
 ### Summary
 ___
+
+A drawdown of this design is that the selection criteria or search does not allow for a range of items to be selected. For instance a user cannot select the data for one or more months or one or more weeks. 
+
+One recommendation would be to code the webpage so as to allow the search engine to select a range as this would be helpful. A user could also just want to filter data for only two cities or 5 cities for that matter in addition to the date or specific month or months.
+
+Another recommendation would be to allow the search or filter function to allow for upper and lower casses as opposed to just lower case. 
+![city-case](https://github.com/fareenamughal/UFOs/blob/83b62daa9e95f6eaa4fb7c7e307820b639fde9ab/static/images/city-case.png)
+
+
 
 In a summary statement, describe one drawback of this new design and two recommendations for further development.
 
