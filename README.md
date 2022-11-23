@@ -53,8 +53,7 @@ Users cannot make changes to this section. The webpage developer or owner would 
 
 To use the webpage the user would need to select the specific information they require by inputting the details in the text box under the search section.
 
-
-      ![Search](https://github.com/fareenamughal/UFOs/blob/main/static/images/Search%20tab.png)
+    ![Search_tab](https://github.com/fareenamughal/UFOs/blob/main/static/images/Search%20tab.png)
       
   - The static section of the webpage
   - The dynamic section of the webpage
