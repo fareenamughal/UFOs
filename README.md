@@ -53,7 +53,7 @@ Users cannot make changes to this section. The webpage developer or owner would 
 
 To use the webpage the user would need to select the specific information they require by inputting the details in the text box under the search section.
 
-      !(https://github.com/fareenamughal/UFOs/blob/e115b7613efde2006998951b5dadeede41e3c32a/static/images/Search%20tab.png)
+      ![Search](https://github.com/fareenamughal/UFOs/blob/e115b7613efde2006998951b5dadeede41e3c32a/static/images/Search%20tab.png)
 
 
 For instance a user may input a specific date to filter the data to only reflect information about that specific date e.g. 1/10/2010
