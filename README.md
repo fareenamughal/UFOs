@@ -1,5 +1,5 @@
 
-# UFOs Analysis using JavaScript, HRML and Bootstrap [Module 12]
+# UFOs Analysis using JavaScript, HTML and Bootstrap [Module 12]
 ___
 
 ## Overview of Project 
@@ -8,7 +8,22 @@ ___
 Dana's webpage and dynamic table aims to provide an interactive analysis for users that would provide them with information about UFO sightings based on the criteria they input. In the previous practice exercise we used one selection criteria to filter the data. In this project we will add multiple filter criteria, thereby allowing users to see only what they are interested in. To be specific, in addition to the date filter, city, state, country and shape will also be used to filter throught the UFO sighting database.
 
 
-Link to access the webpage: file:///Users/fareenamughal/Desktop/BOOTCAMP%2020220822/UFOs/index.html
+Link to access the webpage: UFO Sightings Webpage
+
+file:///Users/fareenamughal/Desktop/BOOTCAMP%2020220822/UFOs/index.html
+
+
+___
+
+### Resources 
+___
+
+--JavaScript, HTML, Boostrap, Visual Stiudo Code
+--Bootstrap CSS Library
+--Data source: https://github.com/fareenamughal/UFOs/blob/9da6ba778849718ece1e79797163a836a7bb9b02/static/js/app.js app.js
+--Challenge starter code:https://github.com/fareenamughal/UFOs/blob/9da6ba778849718ece1e79797163a836a7bb9b02/static/js/ufo_starterCode.js
+--Webpage: https://github.com/fareenamughal/UFOs/blob/9da6ba778849718ece1e79797163a836a7bb9b02/index.html
+
 ___
 
 ### Results
