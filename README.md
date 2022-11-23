@@ -66,11 +66,13 @@ ___
 A drawdown of this design is that the selection criteria or search does not allow for a range of items to be selected. For instance a user cannot select the data for one or more months or one or more weeks. 
 
 One recommendation would be to code the webpage so as to allow the search engine to select a range as this would be helpful. A user could also just want to filter data for only two cities or 5 cities for that matter in addition to the date or specific month or months.
+![Date](https://github.com/fareenamughal/UFOs/blob/49684aec0893a599e84e22b1f6d9f655beee855d/static/images/Date.png)
+As per the image above it is clear that a user cannot select a specific month. When January is selected the search result does not generate any data which is incorrect as the verified by other images in this report.
+
 
 Another recommendation would be to allow the search or filter function to allow for upper and lower casses as opposed to just lower case. 
 ![city-case](https://github.com/fareenamughal/UFOs/blob/83b62daa9e95f6eaa4fb7c7e307820b639fde9ab/static/images/city-case.png)
+As per this image, it is clear when inputting the same city information by using an upper case the search doesn't generate any results whilst we know for certian if the same is input in lower case there is data that is filtered out. 
 
 
-
-In a summary statement, describe one drawback of this new design and two recommendations for further development.
 
