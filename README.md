@@ -39,7 +39,7 @@ The webpage is divided into two sections:
   1. The static section of the webpage contains information - text, images, data etc that does not change. 
 Users cannot make changes to this section. The webpage developer or owner would be able to change this section via the Bootstrap CSS library which would formt according to the selected CSS library, image file based on the preferred image and text based on the specific text that for the website.
   
-  ![Static](https://github.com/fareenamughal/UFOs/blob/main/static/images/Static%20section%20of%20webpage.png)
+      ![Static](https://github.com/fareenamughal/UFOs/blob/main/static/images/Static%20section%20of%20webpage.png)
   
   2. The dynamic section of the webpage contains information which changes as per user selection. 
   In this case the dynamic section contains the various filters which refer to columns in the data table. A user can search the data based on the following criteria:
