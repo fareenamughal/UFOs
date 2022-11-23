@@ -50,7 +50,14 @@ Users cannot make changes to this section. The webpage developer or owner would 
   ---shape - this enables the users to select the type of shape for instance triangle - of the UFO sightings.
       
       ![Dynamic](https://github.com/fareenamughal/UFOs/blob/main/static/images/Dynamic%20section%20of%20the%20webpage.png)
-  
+
+To use the webpage the user would need to select the specific information they require by inputting the details in the text box under the search section.
+
+
+      ![Search](https://github.com/fareenamughal/UFOs/blob/main/static/images/Search%20tab.png)
+      
+  - The static section of the webpage
+  - The dynamic section of the webpage
 
 
 
