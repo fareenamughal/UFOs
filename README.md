@@ -12,17 +12,17 @@ Link to access the webpage: UFO Sightings Webpage
 
 file:///Users/fareenamughal/Desktop/BOOTCAMP%2020220822/UFOs/index.html
 
-
 ___
 
 ### Resources 
 ___
 
---JavaScript, HTML, Boostrap, Visual Stiudo Code
---Bootstrap CSS Library
---Data source: https://github.com/fareenamughal/UFOs/blob/9da6ba778849718ece1e79797163a836a7bb9b02/static/js/app.js app.js
---Challenge starter code:https://github.com/fareenamughal/UFOs/blob/9da6ba778849718ece1e79797163a836a7bb9b02/static/js/ufo_starterCode.js
---Webpage: https://github.com/fareenamughal/UFOs/blob/9da6ba778849718ece1e79797163a836a7bb9b02/index.html
+ 1.JavaScript, HTML, Boostrap, Visual Stiudo Code
+ 2.Bootstrap CSS Library
+ 3.Data source: https://github.com/fareenamughal/UFOs/blob/9da6ba778849718ece1e79797163a836a7bb9b02/static/js/app.js app.js    
+ 4.Challenge starter code: https://github.com/fareenamughal/UFOs/blob/9da6ba778849718ece1e79797163a836a7bb9b02/static/js/ufo_starterCode.js
+ 5.Image source: https://github.com/fareenamughal/UFOs/blob/4176d01ef404aadb2b1f1f1f8ad9ce5aa09955e9/static/images/nasa.jpg
+ 6.HTML file creating the webpage: https://github.com/fareenamughal/UFOs/blob/9da6ba778849718ece1e79797163a836a7bb9b02/index.html
 
 ___
 
