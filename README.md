@@ -28,6 +28,21 @@ ___
 ___
 
 
+The webpage is divided into two sections:
+-- The static section of the webpage
+-- The dynamic section of the webpage
+
+  1. The static section of the webpage contains information - text, images, data etc that does not change. 
+  ![Static Section of webpage] (https://github.com/fareenamughal/UFOs/tree/main/static/images#:~:text=Static%20section%20of%20webpage.png)
+ 
+  2. The dynamic section of the webpage contains information which changes as per user selection. In this case the dynamic section contains the various filters which refer to columns in the data table. A user can search the data based on the following criteria:
+  ---Date - denotes the date that the user would like to drill down thier search for
+  ---City - this is to select the specific city of interest
+  ---State - enables a user to select the one specific state
+  ---Country - this data contains information for only one country, US. If the data contained information about more countries then users would be able to select a specific country and observe results for the selected counrty 
+  ---shape - this enables the users to select the type of shape for instance triangle - of the UFO sightings.
+
+ 
 Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
 
 
