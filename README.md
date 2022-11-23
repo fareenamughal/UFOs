@@ -33,10 +33,11 @@ ___
 
 
 The webpage is divided into two sections:
--- The static section of the webpage
--- The dynamic section of the webpage
+--- The static section of the webpage
+--- The dynamic section of the webpage
 
-  1. The static section of the webpage contains information - text, images, data etc that does not change. 
+  1. The static section of the webpage contains information - text, images, data etc that does not change. Users cannot make changes to this section. The webpage developer or owner would be able to change this section via the Bootstrap CSS library which would formt according to the selected CSS library, image file based on the preferred image and text based on the specific text that for the website.
+  
   ![Static](https://github.com/fareenamughal/UFOs/blob/main/static/images/Static%20section%20of%20webpage.png)
   
   2. The dynamic section of the webpage contains information which changes as per user selection. In this case the dynamic section contains the various filters which refer to columns in the data table. A user can search the data based on the following criteria:
@@ -47,7 +48,9 @@ The webpage is divided into two sections:
   ---shape - this enables the users to select the type of shape for instance triangle - of the UFO sightings.
   ![Dynamic](https://github.com/fareenamughal/UFOs/blob/main/static/images/Dynamic%20section%20of%20the%20webpage.png)
   
- 
+
+
+
 Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
 
 
