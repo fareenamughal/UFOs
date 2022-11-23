@@ -48,7 +48,8 @@ Users cannot make changes to this section. The webpage developer or owner would 
   ---State - enables a user to select the one specific state
   ---Country - this data contains information for only one country, US. If the data contained information about more countries then users would be able to select a specific country and observe results for the selected counrty 
   ---shape - this enables the users to select the type of shape for instance triangle - of the UFO sightings.
-  ![Dynamic](https://github.com/fareenamughal/UFOs/blob/main/static/images/Dynamic%20section%20of%20the%20webpage.png)
+      
+      ![Dynamic](https://github.com/fareenamughal/UFOs/blob/main/static/images/Dynamic%20section%20of%20the%20webpage.png)
   
 
 
